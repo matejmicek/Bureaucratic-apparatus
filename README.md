@@ -1,4 +1,4 @@
-# Bureaucratic-apparatus
+# Bureaucratic-apparatus  - school assignment
 
 To approve a certain matter, a bureaucratic apparatus works as follows. Each clerk begins with a document on his desk. Each clerk reads his document, stamps it and sends it to another clerk. The process completes when all clerks have the document they began with (i.e. the entire apparatus has returned to its initial state).
 
